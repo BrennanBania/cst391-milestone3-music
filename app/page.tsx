@@ -17,10 +17,10 @@ export default function Home() {
             CST-391 Music App - Brennan Bania
           </h1>
           <h2 className="text-xl font-medium text-blue-600 dark:text-blue-400">
-            Milestone 3 - Next.js & Vercel Deployment
+            Milestone 3 - Next.js & Vercel Cloud Deployment
           </h2>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
+            A powerful music application built with Next.js and deployed on Vercel. Looking for more information? Head over to{" "}
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
